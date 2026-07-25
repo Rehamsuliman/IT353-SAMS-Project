@@ -1,11 +1,32 @@
 # Meeting Notes
+**Date:** 25 July 2026
 
-## 14 July 2026
+### Participants
+- Reham Alhumaidan
+- Amal
+- sarah
+- Atheer Alomari
 
-Team meeting completed.
+### Agenda
+- Discuss the project idea.
+- Create the GitHub repository.
+- Organize the repository structure.
+- Assign tasks to team members.
 
-Decisions:
-- Selected Student Activities Management System (SAMS) as the project.
-- Organized the GitHub repository.
-- Created project folders.
-- Started project planning.
+### Decisions
+- Selected **Student Activities Management System (SAMS)** as the project.
+- Use **one shared GitHub repository** for the whole team.
+- Add all team members as collaborators.
+- Organize the repository into:
+  - docs
+  - diagrams
+  - prototype
+
+#### Action Items
+- Reham Alhumaidan: Team Leader, GitHub repository management, UI Prototype, UML Diagrams.
+- Amal: System Requirements.
+- Sarah: System Analysis and Documentation.
+- Atheer Alomari: Testing, Review, and Final Report Formatting.
+
+### Next Meeting
+Start writing the System Requirements and prepare the first diagrams.
