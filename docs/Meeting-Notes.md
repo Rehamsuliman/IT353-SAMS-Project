@@ -3,7 +3,7 @@
 
 ### Participants
 - Reham Alhumaidan
-- Amal
+- Amal Alsaud
 - sarah
 - Atheer Alomari
 
@@ -24,7 +24,7 @@
 
 #### Action Items
 - Reham Alhumaidan: Team Leader, GitHub repository management, UI Prototype, UML Diagrams.
-- Amal: System Requirements.
+- Amal Alsaud: System Requirements.
 - Sarah: System Analysis and Documentation.
 - Atheer Alomari: Testing, Review, and Final Report Formatting.
 
