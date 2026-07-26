@@ -23,8 +23,8 @@
   - prototype
 
 #### Action Items
-- Reham Alhumaidan: Team Leader, GitHub repository management, UI Prototype, UML Diagrams.
-- Amal Alsaud: System Requirements.
+- Reham Alhumaidan: Team Leader, GitHub repository management, UI Prototype.
+- Amal Alsaud: System Requirements,UML Diagrams.
 - Sarah: System Analysis and Documentation.
 - Atheer Alomari: Testing, Review, and Final Report Formatting.
 
