@@ -31,4 +31,4 @@
 - Atheer Alomari: Database Design (ERD), Database Schema, Testing, System Review.
 
 ### Next Meeting
-Start writing the System Requirements and prepare the first diagrams.
+Complete the database design, review all diagrams for consistency, finalize the project documentation, and prepare the final submission.
