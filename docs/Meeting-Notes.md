@@ -4,7 +4,7 @@
 ### Participants
 - Reham Alhumaidan
 - Amal Alsaud
-- Sarah Albarazi
+- Sara Albarazi
 - Atheer Alomari
 
 ### Agenda
@@ -27,7 +27,7 @@
 #### Action Items
 - Reham Alhumaidan: Team Leader, GitHub Repository Management, Project Planning, Gantt Charts, UI Prototype, Context Diagram, Level-0 DFD, Level-1 DFDs, Diagram Review..
 - Amal Alsaud: System Requirements, UML Diagrams (Class Diagram), Final Report Formatting,Final Project Submission  .
-- Sarah Albarazi: System Analysis and Documentation, Use Case Diagram, Use Case Specifications.
+- Sara Albarazi: System Analysis and Documentation, Use Case Diagram, Use Case Specifications.
 - Atheer Alomari: Database Design (ERD), Database Schema, Testing, System Review.
 
 ### Next Meeting
